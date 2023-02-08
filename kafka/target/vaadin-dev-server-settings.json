@@ -1,0 +1,16 @@
+{
+  "frontendFolder": "/Users/vladprundus/Documents/soa/project/Service-Oriented-Architecture/kafka/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/vladprundus/Documents/soa/project/Service-Oriented-Architecture/kafka/frontend/generated/jar-resources",
+  "staticOutput": "/Users/vladprundus/Documents/soa/project/Service-Oriented-Architecture/kafka/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/vladprundus/Documents/soa/project/Service-Oriented-Architecture/kafka/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/vladprundus/Documents/soa/project/Service-Oriented-Architecture/kafka/target/classes/META-INF/VAADIN/webapp",
+  "jarResourcesFolder": "/Users/vladprundus/Documents/soa/project/Service-Oriented-Architecture/kafka/frontend/generated/jar-resources",
+  "generatedFlowImportsFolder": "target/frontend",
+  "themeName": "",
+  "clientServiceWorkerSource": "/Users/vladprundus/Documents/soa/project/Service-Oriented-Architecture/kafka/target/sw.ts",
+  "pwaEnabled": true,
+  "offlineEnabled": true,
+  "offlinePath": "'.'"
+}

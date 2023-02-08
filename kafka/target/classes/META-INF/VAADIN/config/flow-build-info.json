@@ -1,0 +1,18 @@
+{
+  "productionMode": false,
+  "useDeprecatedV14Bootstrapping": false,
+  "eagerServerLoad": false,
+  "npmFolder": "/Users/vladprundus/Documents/soa/project/Service-Oriented-Architecture/kafka",
+  "node.version": "v18.13.0",
+  "node.download.root": "https://nodejs.org/dist/",
+  "generatedFolder": "/Users/vladprundus/Documents/soa/project/Service-Oriented-Architecture/kafka/target/frontend",
+  "frontendFolder": "/Users/vladprundus/Documents/soa/project/Service-Oriented-Architecture/kafka/frontend",
+  "connect.javaSourceFolder": "/Users/vladprundus/Documents/soa/project/Service-Oriented-Architecture/kafka/src/main/java",
+  "javaResourceFolder": "/Users/vladprundus/Documents/soa/project/Service-Oriented-Architecture/kafka/src/main/resources",
+  "connect.applicationProperties": "/Users/vladprundus/Documents/soa/project/Service-Oriented-Architecture/kafka/src/main/resources/application.properties",
+  "connect.openApiFile": "/Users/vladprundus/Documents/soa/project/Service-Oriented-Architecture/kafka/target/generated-resources/openapi.json",
+  "project.frontend.generated": "/Users/vladprundus/Documents/soa/project/Service-Oriented-Architecture/kafka/frontend/generated",
+  "pnpm.enable": false,
+  "require.home.node": false,
+  "build.folder": "target"
+}
